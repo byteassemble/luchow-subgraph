@@ -1,10 +1,10 @@
 {
-  "name": "pancake-subgraph",
-  "description": "PancakeSwap Subgraph",
+  "name": "luchow-subgraph",
+  "description": "LuchowSwap Subgraph",
   "version": "2.0.0",
   "private": true,
-  "repository": "git@github.com:pancakeswap/pancake-subgraph.git",
-  "author": "PancakeSwap",
+  "repository": "git@github.com:luchowswap/luchow-subgraph.git",
+  "author": "LuchowSwap",
   "license": "GPL-3.0-or-later",
   "workspaces": [
     "subgraphs/**/*"
